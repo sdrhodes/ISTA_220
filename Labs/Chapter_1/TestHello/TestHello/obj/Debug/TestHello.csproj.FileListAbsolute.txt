@@ -1,0 +1,14 @@
+D:\Documents\ISTA 220\Homework\TestHello\TestHello\bin\Debug\TestHello.exe.config
+D:\Documents\ISTA 220\Homework\TestHello\TestHello\bin\Debug\TestHello.exe
+D:\Documents\ISTA 220\Homework\TestHello\TestHello\bin\Debug\TestHello.pdb
+D:\Documents\ISTA 220\Homework\TestHello\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache
+D:\Documents\ISTA 220\Homework\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+D:\Documents\ISTA 220\Homework\TestHello\TestHello\obj\Debug\TestHello.exe
+D:\Documents\ISTA 220\Homework\TestHello\TestHello\obj\Debug\TestHello.pdb
+C:\Users\sdrho\Documents\ISTA 220\Labs\Chapter 1\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\sdrho\Documents\ISTA 220\Labs\Chapter 1\TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\sdrho\Documents\ISTA 220\Labs\Chapter 1\TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\sdrho\Documents\ISTA 220\Labs\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache
+C:\Users\sdrho\Documents\ISTA 220\Labs\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA 220\Labs\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\sdrho\Documents\ISTA 220\Labs\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.pdb

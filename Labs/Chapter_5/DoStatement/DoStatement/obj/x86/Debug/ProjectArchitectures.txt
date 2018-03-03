@@ -1,0 +1,1 @@
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_5\DoStatement\DoStatement\DoStatement.csproj;x86

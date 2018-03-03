@@ -1,0 +1,6 @@
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_3\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.exe.config
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_3\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.exe
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_3\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.pdb
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_3\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_3\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.exe
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_3\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.pdb

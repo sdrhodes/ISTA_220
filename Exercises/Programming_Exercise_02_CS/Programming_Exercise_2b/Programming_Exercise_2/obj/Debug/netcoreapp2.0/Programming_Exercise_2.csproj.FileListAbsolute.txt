@@ -1,0 +1,33 @@
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.deps.json
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.runtimeconfig.json
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.runtimeconfig.dev.json
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.dll
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.pdb
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.csprojResolveAssemblyReference.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.AssemblyInfoInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.AssemblyInfo.cs
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.dll
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.pdb
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2 - Copy\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.deps.json
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2 - Copy\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.runtimeconfig.json
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2 - Copy\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.runtimeconfig.dev.json
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2 - Copy\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.dll
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2 - Copy\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.pdb
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2 - Copy\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.csprojResolveAssemblyReference.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2 - Copy\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2 - Copy\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.AssemblyInfoInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2 - Copy\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.AssemblyInfo.cs
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2 - Copy\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.dll
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2 - Copy\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.pdb
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2b\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.deps.json
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2b\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.runtimeconfig.json
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2b\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.runtimeconfig.dev.json
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2b\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.dll
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2b\Programming_Exercise_2\bin\Debug\netcoreapp2.0\Programming_Exercise_2.pdb
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2b\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.csprojResolveAssemblyReference.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2b\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2b\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.AssemblyInfoInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2b\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.AssemblyInfo.cs
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2b\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.dll
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_02_CS\Programming_Exercise_2b\Programming_Exercise_2\obj\Debug\netcoreapp2.0\Programming_Exercise_2.pdb
