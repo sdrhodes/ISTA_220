@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_6\MathsOperators\MathsOperators\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-27T01:10:40.871</Modified>
+      <Modified>2018-03-06T15:28:43.225</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_6\MathsOperators\MathsOperators\bin\x86\Debug\MathsOperators.exe">
       <PackagePath>entrypoint\MathsOperators.exe</PackagePath>
-      <Modified>2018-02-27T01:10:40.324</Modified>
+      <Modified>2018-03-06T15:28:42.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sdrho\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -520,7 +520,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_6\MathsOperators\MathsOperators\bin\x86\Debug\Core\MathsOperators.exe">
       <PackagePath>MathsOperators.exe</PackagePath>
-      <Modified>2018-02-27T01:10:40.871</Modified>
+      <Modified>2018-03-06T15:28:43.215</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
