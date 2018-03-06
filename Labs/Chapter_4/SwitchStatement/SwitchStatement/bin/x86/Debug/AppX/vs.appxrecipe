@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_4\SwitchStatement\SwitchStatement\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-22T00:08:38.110</Modified>
+      <Modified>2018-03-05T14:20:41.983</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_4\SwitchStatement\SwitchStatement\bin\x86\Debug\SwitchStatement.exe">
       <PackagePath>entrypoint\SwitchStatement.exe</PackagePath>
-      <Modified>2018-02-22T00:08:37.868</Modified>
+      <Modified>2018-03-05T14:20:39.180</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sdrho\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -520,7 +520,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_4\SwitchStatement\SwitchStatement\bin\x86\Debug\Core\SwitchStatement.exe">
       <PackagePath>SwitchStatement.exe</PackagePath>
-      <Modified>2018-02-22T00:08:38.106</Modified>
+      <Modified>2018-03-05T14:20:41.967</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

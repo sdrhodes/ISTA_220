@@ -1,0 +1,6 @@
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_8\Parameters\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_8\Parameters\Parameters\bin\Debug\Parameters.exe.config
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_8\Parameters\Parameters\bin\Debug\Parameters.exe
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_8\Parameters\Parameters\bin\Debug\Parameters.pdb
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_8\Parameters\Parameters\obj\Debug\Parameters.exe
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_8\Parameters\Parameters\obj\Debug\Parameters.pdb
