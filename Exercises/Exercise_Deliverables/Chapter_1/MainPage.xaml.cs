@@ -119,12 +119,12 @@ namespace Programming_Exercise_01_CS
                 resultTri.Text = "Invalid";
                 return;
             }
-            else if (areaTriA < 0)
+            else if (areaTriB < 0)
             {
                 resultTri.Text = "Invalid";
                 return;
             }
-            else if (areaTriA < 0)
+            else if (areaTriC < 0)
             {
                 resultTri.Text = "Invalid";
                 return;
