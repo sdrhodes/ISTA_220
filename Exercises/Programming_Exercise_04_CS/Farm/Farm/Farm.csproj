@@ -44,12 +44,16 @@
   <ItemGroup>
     <Compile Include="Animals.cs" />
     <Compile Include="Chicken.cs" />
+    <Compile Include="Corn.cs" />
     <Compile Include="Cow.cs" />
+    <Compile Include="Crops.cs" />
     <Compile Include="Horse.cs" />
     <Compile Include="Pig.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sheep.cs" />
+    <Compile Include="Soybean.cs" />
+    <Compile Include="Wheat.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

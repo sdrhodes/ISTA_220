@@ -15,7 +15,7 @@ Console.WriteLine((int)steven);
 enum ERank : double {AB, Amn, A1C ...}
 
 ### 5. Are structs stored on the stack or on the heap? What about enums?
-Structs are stored on the stack because they hold a value in memory, unlike classes, which are stored on the heap and store references. Enum values are stored on the stack, my assumption is their names are stored on the heap and are referencing the location in memory on the stack (the actual integer value of the enum)
+Structs are stored on the stack because they hold a value in memory, unlike classes, which are stored on the heap and store references. Enum values are stored on the stack.
 
 ### 6. Declare a struct named DOD with four branches.
 	struct DOD

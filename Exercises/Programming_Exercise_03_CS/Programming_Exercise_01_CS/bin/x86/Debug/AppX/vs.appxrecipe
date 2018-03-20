@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_03_CS\Programming_Exercise_01_CS\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-07T23:44:37.853</Modified>
+      <Modified>2018-03-17T02:03:15.345</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_03_CS\Programming_Exercise_01_CS\bin\x86\Debug\Programming_Exercise_01_CS.exe">
       <PackagePath>entrypoint\Programming_Exercise_01_CS.exe</PackagePath>
-      <Modified>2018-03-07T23:44:37.576</Modified>
+      <Modified>2018-03-17T02:03:13.224</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sdrho\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -548,7 +548,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_03_CS\Programming_Exercise_01_CS\bin\x86\Debug\Core\Programming_Exercise_01_CS.exe">
       <PackagePath>Programming_Exercise_01_CS.exe</PackagePath>
-      <Modified>2018-03-07T23:44:37.848</Modified>
+      <Modified>2018-03-17T02:03:15.336</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -2,11 +2,11 @@
 ### C# Homework Chapter 7
 
 ### 1. What is a class? According to the book, what does a class “arrange?”
-A classification - arranges information and behavior into meaningful entities
+A classification - arranges information and behavior into meaningful entities. Related variables and methods
 
 ### 2. What are the two purposes of encapsulation?
 To combine methods and data within a class - supports encapsulation
-Control accessibility of the data and methods in a class
+Control accessibility of the data and methods in a class (hiding data).
 
 ### 3. How do you instantiate an instance of a class? How do you access that instance?
 You instantiate an instances of a class by using the new keyword, example - 
@@ -30,13 +30,13 @@ Instance fields and methods can be inherited from class fields and methods, but 
 Static classes can be brought into scope with Using statements, or by using a fully qualified name when you reference objects of the class. Example, Math.Sqrt(); You might bring static classes into scope to reference utilities available to that class
 
 ### 8. Can you think of a good reason to create an anonymous class? What is it?
-Perhaps anonymous classes could return the value of "username" to the user, but not to any developer or database admin. They would only know that there is a username, but not the objects name.
+When you don't want to name every variable you use
 
 ### 9. What is polymorphism as this term is used in computer science? This is not in the book.
-Polymorphism comes from using methods to overwrite the methods from the virtual class from which they're derived. It is a way of passing new arguments to methods with similar function
+Polymorphism comes from using methods to overwrite the methods from the virtual class from which they're derived. It is a way of passing new arguments to methods with similar function. Play(); pass trumpet and it would have one behavior, pass game and it would have another behavior, pass children and it would have a different behavior. Methods specialize/change dependent on types of variables.
 
 ### 10. What is message passing as this term is used in computer science? This is not in the book.
-Message passing is giving parameters to a method
+Message passing is giving arguments to satisfy the parameters of a method
 
 ### 11. What was the first object-oriented programming language?
 Smalltalk
