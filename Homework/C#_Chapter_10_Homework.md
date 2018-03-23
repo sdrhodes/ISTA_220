@@ -2,10 +2,10 @@
 ### C# Homework Chapter 10
 
 ### 1. What does an array look like in memory?
-An array is a bundled contiguous block of memory stored in the heap. The array reference is stored in the stack, and points to the values which are stored on the heap.
+An array is a bundled contiguous block of memory stored on the heap, with the memory address on the stack pointing to the heap
 
 ### 2. Where is memory allocated to hold an array, on the stack or on the heap?
-Memory is allocated to hold an array in the heap
+Memory is allocated to hold an array in the heap, with the memory address on the stack
 
 ### 3. Where is memory allocated to hold an array reference, on the stack or on the heap?
 An array reference is allocated in the stack
@@ -41,6 +41,8 @@ You have to serialize the array and copy the binary.
 ### 7. What is the difference between a multi-dimensional array and an array of arrays?
 A multi-dimensional array can have more than two coordinates, for example, x,y,z
 An array of arrays causes the index in an array to point to the start of another array
+	multi[x,y]
+	arrofarr[x],[y]
 
 ### 8. How do you “flatten” a multidimensional array? In other words, take something that looks like a matrix and turn it into an array [1, 2, 3, 4, 5, 6, 7, 8, 9]?
 You can use a foreach loop to iterate through all the items in the array

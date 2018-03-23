@@ -1,0 +1,7 @@
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_05_CS\ArraysA\ArraysA\bin\Debug\ArraysA.exe.config
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_05_CS\ArraysA\ArraysA\bin\Debug\ArraysA.exe
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_05_CS\ArraysA\ArraysA\bin\Debug\ArraysA.pdb
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_05_CS\ArraysA\ArraysA\obj\Debug\ArraysA.csprojResolveAssemblyReference.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_05_CS\ArraysA\ArraysA\obj\Debug\ArraysA.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_05_CS\ArraysA\ArraysA\obj\Debug\ArraysA.exe
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_05_CS\ArraysA\ArraysA\obj\Debug\ArraysA.pdb
