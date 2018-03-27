@@ -13,7 +13,7 @@ Example:
 Because you have to populate an array, and the array has a limited number of indexes which are defined in the creation of the array.
 
 ### 4. How many parameters can a method have?
-Using a param array, a method can accept any amount of arguments of a specific type, such as int
+Using a param array, a method can accept a any amount of arguments of a specific type, such as int
 
 ### 5. Do parameter arguments have to have the same type?
 Parameters arrays must be of the same defined type, unless you create a params object array, which accepts arguments of any type
