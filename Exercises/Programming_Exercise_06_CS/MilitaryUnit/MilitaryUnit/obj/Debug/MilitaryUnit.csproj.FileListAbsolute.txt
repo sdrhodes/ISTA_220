@@ -1,0 +1,7 @@
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_06_CS\MilitaryUnit\MilitaryUnit\obj\Debug\MilitaryUnit.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_06_CS\MilitaryUnit\MilitaryUnit\bin\Debug\MilitaryUnit.exe.config
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_06_CS\MilitaryUnit\MilitaryUnit\bin\Debug\MilitaryUnit.exe
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_06_CS\MilitaryUnit\MilitaryUnit\bin\Debug\MilitaryUnit.pdb
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_06_CS\MilitaryUnit\MilitaryUnit\obj\Debug\MilitaryUnit.exe
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_06_CS\MilitaryUnit\MilitaryUnit\obj\Debug\MilitaryUnit.pdb
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_06_CS\MilitaryUnit\MilitaryUnit\obj\Debug\MilitaryUnit.csprojResolveAssemblyReference.cache
