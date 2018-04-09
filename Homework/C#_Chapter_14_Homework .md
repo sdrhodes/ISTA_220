@@ -2,16 +2,16 @@
 ### C# Homework Chapter 14
 
 ### 1. What is the difference between a managed resource and an unmanaged resource?
-A managed resource is something we have control over, such as a variable, or reference. Something held in local memory. An unmanaged resource is something such as an internet connection, or data stream.
+A managed resource is something managed by the CLR. Unmanaged resources are not managed by the CLR.
 
 ### 2. When is memory for an object (reference type) allocated? When is the memory deallocated?
 Memory for an object is allocated when "new" is used. Memory is deallocated when the garbage collector runs and the CLR chooses to deallocate memory
 
 ### 3. What is a destructor?
-A destructor is a method that the CLR calls after references to an object have disappeared
+A destructor is a method that the CLR calls after references to an object have disappeared. Clears out the heap.
 
 ### 4. What is the difference in syntax between a constructor and a destructor?
-a constructor uses a tilde ~, and can never be called. Destructors cannot accept parameters and cannot lsit access types
+a constructor uses a tilde ~, and can never be called. Destructors cannot accept parameters and cannot list access types
 
 ### 5. Give some examples of scarce resources. Why would you want to manage scarce resources?
 Scarce resources may include bandwidth, a phone line (for fax), connection to a printer. These resources are accessed by many programs, and possibly other users. They must be managed appropriately

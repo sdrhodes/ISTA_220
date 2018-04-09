@@ -1,0 +1,6 @@
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.pdb

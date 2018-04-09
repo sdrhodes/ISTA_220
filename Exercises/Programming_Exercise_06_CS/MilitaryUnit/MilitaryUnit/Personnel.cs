@@ -11,21 +11,48 @@ namespace MilitaryUnit
         private string name = null;
         private string rank = null;
         public abstract void Train(string a);
-        void GetInfo()
+        private string[] SoldierName = { "Matt", "Donovan", "Norma", "Ryan",
+            "Rory", "Ricardo", "Steven", "Thomas",
+            "Oscar", "Sam", "Dominique", "Deniqtrius", "Justin", "Nick" };
+        private string[] SoldierRank = { "Private", "Corporal", "Sergeant",
+            "Lieutenant", "Captain", "Major" };
+
+        public void GetInfo()
         {
+            Random r = new Random();
+            int rName = r.Next(0, SoldierName.Length-1);
             Console.WriteLine("What is your name, soldier?");
-            name = Console.ReadLine();
+            name = SoldierName.ElementAt(rName);
+            Console.WriteLine($"My name is {name}, General");
+            Random s = new Random();
+            int sRank = s.Next(0, SoldierRank.Length - 1);
             Console.WriteLine("What is your rank?");
-            rank = Console.ReadLine();
+            rank = SoldierRank.ElementAt(sRank);
+            Console.WriteLine($"My rank is {rank}, General");
+            Console.WriteLine("\r\nWould you like to meet more troops? Y/N");
+            char answer = char.Parse(Console.ReadLine());
+            if (answer == 'y' || answer == 'Y')
+            {
+                GetInfo();
+            }
+            else if (answer == 'n' || answer == 'N')
+            {
+                return;
+            }
+            else
+            {
+                Console.WriteLine("Please enter Y/N.");
+                GetInfo();
+            }
         }
         public abstract void PerformMission(string a);
-        void Sleep()
+        public void Sleep()
         {
             Console.WriteLine($"{rank} {name} sleeps.");
         }
-        void Eat()
+        public void Eat()
         {
-            Console.WriteLine($"{name} eats.");
+            Console.WriteLine($"{rank} {name} goes to the chow hall.");
         }
         
     }

@@ -5,16 +5,16 @@
 An interface specifies methods and properties that a class that inherits from the interface must provide
 
 ### 2. How do you define an interface?
-I define an interface as a meeting layer between two entities
+I define an interface as a meeting layer between two entities. Includes name and parameters, and a method with no body.
 
 ### 3. Can an interface have variables, fields, or properties?
 No, a layer cannot contain data
 
 ### 4. How do you define a method in an interface?
-A method is defined by name, and return type. Methods that correspond to interface methods must match parameters exactly, and must be publicly accessible
+A method is defined by name, and return type. Methods that correspond to interface methods must match parameters exactly, and must be publicly accessible. Replace method body by a semi-colon
 
 ### 5. Can you instantiate an object through an interface? Why or why not?
-
+Yes. You remove a dependency on a concrete class. You don't hard code your code to something that will be hard to change later on.
 
 ### 6. Using the new keyword, can you declare a reference to an interface?
 Yes, indirectly. You can create a new variable. Then set the variable equal to an interface if it's under the original variables hierarchy.
@@ -35,7 +35,7 @@ Abstract classes are classes with functionality that are used for inheritance - 
 Abstract methods are methods that do not contain method bodies, and are meant to be overwritten with their own functionality when used in an inheritted class
 
 ### 12. What is an sealed class?
-A sealed class cannot be the base class - it cannot be derived from
+A sealed class cannot be the base class - it cannot be derived from. Cannot contain virtual methods
 
 ### 13. What is an sealed method?
 A sealed method cannot be overrided by a derived class

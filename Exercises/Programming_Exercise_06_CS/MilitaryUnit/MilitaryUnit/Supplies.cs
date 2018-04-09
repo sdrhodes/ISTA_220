@@ -8,6 +8,6 @@ namespace MilitaryUnit
 {
     public abstract class Supplies
     {
-        
+        //todo
     }
 }

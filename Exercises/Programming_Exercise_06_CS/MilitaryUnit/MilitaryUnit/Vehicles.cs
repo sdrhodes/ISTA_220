@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MilitaryUnit
 {
-    class Vehicles
+    public abstract class Vehicles
     {
+        //todo
     }
 }

@@ -10,6 +10,7 @@ namespace MilitaryUnit
     {
         static void Main(string[] args)
         {
+            selectInspection:
             Console.WriteLine("Arms inspection at 0630!\r\n" +
                 "General, which troops would you like to inspect?\r\n" +
                 "1:: Personnelists\r\n" +
@@ -19,19 +20,36 @@ namespace MilitaryUnit
             switch (inspectionChoice)
             {
                 case 1:
-                    //TODO Personnelist personnelist = new Personnelist();
-                    //TODO personnelist.PresentWeapon();
+                    Personnelist personnelist = new Personnelist();
+                    personnelist.PresentForInspection();
                     break;
                 case 2:
                     Infantryman infantryman = new Infantryman();
-                    infantryman.PresentWeapon();
+                    infantryman.PresentForInspection();
                     break;
                 case 3:
-                    //TODO
+                    Tanker tanker = new Tanker();
+                    tanker.PresentForInspection();
                     break;
                 default:
                     break;
             }
+            Console.WriteLine("\r\nWould you like to inspect other troops? Y/N");
+            string restartInspection = Console.ReadLine();
+            switch (restartInspection)
+            {
+                case "y":
+                    goto selectInspection;
+                case "Y":
+                    goto selectInspection;
+                case "n":
+                    break;
+                case "N":
+                    break;
+                default:
+                    break;
+            }
+
             selectMission:
             Console.WriteLine("\r\nWhat is the mission, General?\r\n" +
                 "1:: Give orders to personnel\r\n" +
@@ -76,6 +94,13 @@ namespace MilitaryUnit
                     break;
             }
 
+            Console.WriteLine("\r\nLet's meet some troops.");
+            Infantryman fng = new Infantryman();
+            fng.GetInfo();
+
+            Console.WriteLine("The troops earned R&R. Dismissed");
+            fng.Eat();
+            fng.Sleep();
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MilitaryUnit
 {
-    class Infantryman : Personnel, IPresentWeapon
+    class Infantryman : Personnel, IPresentForInspection
     {
         
         public override void Train(string a)
@@ -19,14 +19,14 @@ namespace MilitaryUnit
             Console.WriteLine($"The {a} takes the hill.");
         }
 
-        public void PresentWeapon()
+        public void PresentForInspection()
         {
-            MachineGunWeapon machineGunWeapon = new MachineGunWeapon();
-            Console.WriteLine($"Your weapon is a {machineGunWeapon.weaponName}");
-            Console.WriteLine($"Your weapon is {machineGunWeapon.weaponType} type");
-            Console.WriteLine($"Your weapon uses {machineGunWeapon.weaponAmmo}");
-            Console.WriteLine($"Your weapon's fire rate is {machineGunWeapon.weaponFireRate}");
-            Console.WriteLine($"Your weapon damage is {machineGunWeapon.weaponDamage}");
+            AutomaticRifleWeapon automaticRifleWeapon = new AutomaticRifleWeapon();
+            Console.WriteLine($"Your weapon is a {automaticRifleWeapon.weaponName}");
+            Console.WriteLine($"Your weapon is {automaticRifleWeapon.weaponType} type");
+            Console.WriteLine($"Your weapon uses {automaticRifleWeapon.weaponAmmo}");
+            Console.WriteLine($"Your weapon's fire rate is {automaticRifleWeapon.weaponFireRate}");
+            Console.WriteLine($"Your weapon damage is {automaticRifleWeapon.weaponDamage}");
         }
     }
 
