@@ -1,0 +1,7 @@
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_07_CS\Roulette\Roulette\bin\Debug\Roulette.exe.config
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_07_CS\Roulette\Roulette\bin\Debug\Roulette.exe
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_07_CS\Roulette\Roulette\bin\Debug\Roulette.pdb
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_07_CS\Roulette\Roulette\obj\Debug\Roulette.csprojResolveAssemblyReference.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_07_CS\Roulette\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_07_CS\Roulette\Roulette\obj\Debug\Roulette.exe
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_07_CS\Roulette\Roulette\obj\Debug\Roulette.pdb
