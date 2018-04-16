@@ -1,0 +1,6 @@
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_17\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_17\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_17\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_17\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_17\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\sdrho\Documents\ISTA_220\Labs\Chapter_17\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
