@@ -1,0 +1,7 @@
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_12_CS\StatisticalFunctions\StatisticalFunctions\bin\Debug\StatisticalFunctions.exe.config
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_12_CS\StatisticalFunctions\StatisticalFunctions\bin\Debug\StatisticalFunctions.exe
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_12_CS\StatisticalFunctions\StatisticalFunctions\bin\Debug\StatisticalFunctions.pdb
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_12_CS\StatisticalFunctions\StatisticalFunctions\obj\Debug\StatisticalFunctions.csprojResolveAssemblyReference.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_12_CS\StatisticalFunctions\StatisticalFunctions\obj\Debug\StatisticalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_12_CS\StatisticalFunctions\StatisticalFunctions\obj\Debug\StatisticalFunctions.exe
+C:\Users\sdrho\Documents\ISTA_220\Exercises\Programming_Exercise_12_CS\StatisticalFunctions\StatisticalFunctions\obj\Debug\StatisticalFunctions.pdb
